@@ -1,6 +1,6 @@
 {
     "name": "mrbeandev/mrbeandevsql",
-    "description": "A simple MySQL PDO wrapper",
+    "description": "A simple and efficient MySQL PDO wrapper for PHP applications, providing streamlined database interactions and enhanced usability with support for prepared statements, fetching rows, and more.",
     "type": "library",
     "autoload": {
         "psr-4": {
