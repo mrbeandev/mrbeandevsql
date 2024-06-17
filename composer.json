@@ -1,0 +1,24 @@
+{
+    "name": "mrbeandev/mrbeandevsql",
+    "description": "A simple MySQL PDO wrapper",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "MrBeanDev\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    },
+    "authors": [
+        {
+            "name": "Mrbeandev",
+            "email": "mrbeandev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
